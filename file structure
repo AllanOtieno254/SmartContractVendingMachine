@@ -1,0 +1,18 @@
+SmartContractVendingMachine/
+│
+├── contracts/
+│   ├── VendingMachine.sol
+│
+├── scripts/
+│   ├── deploy.js
+│   ├── interact.js
+│
+├── tests/
+│   ├── test_vendingMachine.js
+│
+├── images/
+│   ├── vending_machine_diagram.png
+│
+├── README.md
+├── LICENSE
+└── .gitignore
